@@ -10,6 +10,14 @@ public class App62Application {
 		SpringApplication.run(App62Application.class, args);
 		System.out.println("durga prasad is a good boy");
 		System.out.println("durga prasad is a good boy");
+		System.out.println("durga prasad is a good boy");
+		System.out.println("durga prasad is a good boy");
+		System.out.println("durga prasad is a good boy");
+		System.out.println("durga prasad is a good boy");
+		System.out.println("durga prasad is a good boy");
+		System.out.println("durga prasad is a good boy");
+		System.out.println("durga prasad is a good boy");
+		System.out.println("durga prasad is a good boy");
 		
 		
 	}
