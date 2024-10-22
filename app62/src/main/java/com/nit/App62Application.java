@@ -9,6 +9,7 @@ public class App62Application {
 	public static void main(String[] args) {
 		SpringApplication.run(App62Application.class, args);
 		System.out.println("durga prasad is a good boy");
+		System.out.println("durga prasad is a good boy");
 		
 		
 	}
